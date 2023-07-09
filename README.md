@@ -1,3 +1,3 @@
 # discussions
 
-CORSmirror discussions.
+CORSmirror [discussions](https://github.com/orgs/CORSmirror/discussions).
